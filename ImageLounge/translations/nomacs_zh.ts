@@ -16,7 +16,7 @@
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="205"/>
       <source>Picasa Ph&amp;oto Viewer</source>
-      <translation>Picasa 圖片檢視器(&amp;o)</translation>
+      <translation>Picasa 图片检查器(&amp;o)</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="216"/>
@@ -31,12 +31,12 @@
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="364"/>
       <source>&amp;File</source>
-      <translation>&amp;檔案</translation>
+      <translation>&amp;档案</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="407"/>
       <source>&amp;Open With</source>
-      <translation>&amp;開啟方式</translation>
+      <translation>&amp;开启方式</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="429"/>
@@ -47,13 +47,13 @@
       <location filename="../../src/DkCore/DkActionManager.cpp" line="443"/>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="669"/>
       <source>&amp;View</source>
-      <translation>&amp;檢視</translation>
+      <translation>&amp;检查</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="501"/>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="675"/>
       <source>&amp;Edit</source>
-      <translation>&amp;編輯</translation>
+      <translation>&amp;编辑</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="523"/>
@@ -79,7 +79,7 @@
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="596"/>
       <source>&amp;?</source>
-      <translation>&amp;幫助</translation>
+      <translation>&amp;帮助</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="612"/>
@@ -94,22 +94,22 @@
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="958"/>
       <source>&amp;Open</source>
-      <translation>開啟(&amp;O)</translation>
+      <translation>开启(&amp;O)</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="960"/>
       <source>Open an image</source>
-      <translation>開啟圖片</translation>
+      <translation>开启图片</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="962"/>
       <source>Open &amp;Directory</source>
-      <translation>開啟目錄(&amp;D)</translation>
+      <translation>开启目录(&amp;D)</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="964"/>
       <source>Open a directory and load its first image</source>
-      <translation>開啟目錄並載入其第一個圖片</translation>
+      <translation>开启目录并载入其第一个图片</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="966"/>
@@ -124,17 +124,17 @@
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="969"/>
       <source>&amp;Quick Launch</source>
-      <translation>快速啟動(&amp;M)</translation>
+      <translation>快速启动(&amp;M)</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="976"/>
       <source>&amp;Manage Applications</source>
-      <translation>&amp;管理應用程式</translation>
+      <translation>&amp;管理应用软件</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="977"/>
       <source>Manage Applications which are Automatically Opened</source>
-      <translation>管理自動開啟的應用程式</translation>
+      <translation>管理自动打开的应用软件</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="980"/>
@@ -144,27 +144,27 @@
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="983"/>
       <source>Rename an image</source>
-      <translation>重新命名圖片</translation>
+      <translation>重新命名图片</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="985"/>
       <source>&amp;Go To</source>
-      <translation>&amp;轉到</translation>
+      <translation>&amp;转到</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="987"/>
       <source>Go To an image</source>
-      <translation>轉到圖片</translation>
+      <translation>转到图片</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="989"/>
       <source>&amp;Save</source>
-      <translation>儲存(&amp;S)</translation>
+      <translation>储存(&amp;S)</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="991"/>
       <source>Save an image</source>
-      <translation>儲存圖片</translation>
+      <translation>储存图片</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="993"/>
@@ -174,7 +174,7 @@
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="995"/>
       <source>Save an image as</source>
-      <translation>另存為</translation>
+      <translation>另存为</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="997"/>
@@ -199,62 +199,62 @@
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1003"/>
       <source>&amp;Save for Web</source>
-      <translation>&amp;另存為Web可用模式</translation>
+      <translation>&amp;另存为Web可用模式</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1004"/>
       <source>Save an Image for Web Applications</source>
-      <translation>儲存為Web所用格式</translation>
+      <translation>储存为Web所用格式</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1006"/>
       <source>&amp;Print</source>
-      <translation>列印</translation>
+      <translation>打印</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1008"/>
       <source>Print an image</source>
-      <translation>列印圖片</translation>
+      <translation>打印圖片</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1010"/>
       <source>&amp;Recent Files</source>
-      <translation>最近的檔案(&amp;R)</translation>
+      <translation>最近的文件(&amp;R)</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1014"/>
       <source>Show Recent Files</source>
-      <translation>顯示最近使用的檔案</translation>
+      <translation>显示最近使用的文件</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1016"/>
       <source>&amp;Reload File</source>
-      <translation>重新載入檔案</translation>
+      <translation>重新载入文件</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1019"/>
       <source>Reload File</source>
-      <translation>重新載入檔案</translation>
+      <translation>重新载入文件</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1021"/>
       <source>Ne&amp;xt File</source>
-      <translation>下個檔案</translation>
+      <translation>下个文件</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1024"/>
       <source>Load next image</source>
-      <translation>載入下一張圖片</translation>
+      <translation>载入下一张图片</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1026"/>
       <source>Pre&amp;vious File</source>
-      <translation>上個檔案</translation>
+      <translation>上个文件</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1029"/>
       <source>Load previous file</source>
-      <translation>載入上一個檔案</translation>
+      <translation>载入上一个文件</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1031"/>
@@ -264,7 +264,7 @@
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1033"/>
       <source>Open file in new instance</source>
-      <translation>在新視窗中開啟檔案</translation>
+      <translation>在新窗口中打开文件</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1035"/>
@@ -279,23 +279,23 @@
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1039"/>
       <source>&amp;Find &amp;&amp; Filter</source>
-      <translation>＆搜尋＆＆過濾器</translation>
+      <translation>＆搜索＆＆过滤器</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1041"/>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1392"/>
       <source>Find an image</source>
-      <translation>搜尋圖片</translation>
+      <translation>搜索图片</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1043"/>
       <source>Scan Folder Re&amp;cursive</source>
-      <translation>遞迴掃描資料夾 (&amp;c)</translation>
+      <translation>递回扫描文件夹 (&amp;c)</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1044"/>
       <source>Step through Folder and Sub Folders</source>
-      <translation>通過資料夾和子資料夾</translation>
+      <translation>通过文件夹和子文件夹</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1048"/>
@@ -310,12 +310,12 @@
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1054"/>
       <source>by &amp;Filename</source>
-      <translation>按檔名排序(&amp;F)</translation>
+      <translation>按文件名排序(&amp;F)</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1056"/>
       <source>Sort by Filename</source>
-      <translation>按檔名排序</translation>
+      <translation>按文件名排序</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1060"/>
@@ -340,12 +340,12 @@
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1072"/>
       <source>Random</source>
-      <translation>隨機</translation>
+      <translation>随机</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1074"/>
       <source>Sort in Random Order</source>
-      <translation>隨機排序</translation>
+      <translation>随机排序</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1078"/>
@@ -370,22 +370,22 @@
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1093"/>
       <source>9&amp;0%1 Clockwise</source>
-      <translation>順時針90%1</translation>
+      <translation>顺时针90%1</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1096"/>
       <source>rotate the image 90%1 clockwise</source>
-      <translation>順時針旋轉90%1</translation>
+      <translation>顺时针旋转90%1</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1098"/>
       <source>&amp;90%1 Counter Clockwise</source>
-      <translation>逆時針90%1</translation>
+      <translation>逆时针90%1</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1101"/>
       <source>rotate the image 90%1 counter clockwise</source>
-      <translation>逆時針旋轉90%1</translation>
+      <translation>逆时针旋转90%1</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1103"/>
@@ -395,17 +395,17 @@
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1104"/>
       <source>rotate the image by 180%1</source>
-      <translation>圖片旋轉180%1</translation>
+      <translation>图片旋转180%1</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1106"/>
       <source>&amp;Undo</source>
-      <translation>復原(&amp;U)</translation>
+      <translation>复原(&amp;U)</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1109"/>
       <source>Undo Last Action</source>
-      <translation>復原最後動作</translation>
+      <translation>复原最后动作</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1111"/>
@@ -415,45 +415,45 @@
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1114"/>
       <source>Redo Last Action</source>
-      <translation>重做上一次動作</translation>
+      <translation>重做上一次动作</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1116"/>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1495"/>
       <source>&amp;Copy</source>
-      <translation>複製(&amp;C)</translation>
+      <translation>复制(&amp;C)</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1119"/>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1124"/>
       <source>copy image</source>
-      <translation>復製圖片</translation>
+      <translation>复制图片</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1121"/>
       <source>Copy &amp;Buffer</source>
-      <translation>複製緩衝區(&amp;B)</translation>
+      <translation>复制缓存区(&amp;B)</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1126"/>
       <source>Copy Co&amp;lor</source>
-      <translation>複製顏色(&amp;L)</translation>
+      <translation>复制颜色(&amp;L)</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1129"/>
       <source>copy pixel color value as HEX</source>
-      <translation>複製畫素顏色為HEX</translation>
+      <translation>复制像素颜色为HEX</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1134"/>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1498"/>
       <source>&amp;Paste</source>
-      <translation>貼上(&amp;P)</translation>
+      <translation>粘贴(&amp;P)</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1137"/>
       <source>paste image</source>
-      <translation>貼上圖片</translation>
+      <translation>粘贴圖片</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1139"/>
@@ -464,27 +464,27 @@
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1142"/>
       <source>delete current fileInfo</source>
-      <translation>刪除當前檔案資訊</translation>
+      <translation>刪除当前文件信息</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1144"/>
       <source>&amp;Keyboard Shortcuts</source>
-      <translation>快捷鍵</translation>
+      <translation>快捷键</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1146"/>
       <source>lets you customize your keyboard shortcuts</source>
-      <translation>您可以自定義自己的快捷鍵</translation>
+      <translation>您可以自定义自己的快捷键</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1148"/>
       <source>&amp;Settings</source>
-      <translation>設定</translation>
+      <translation>设置</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1150"/>
       <source>settings</source>
-      <translation>設定</translation>
+      <translation>设置</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1153"/>
@@ -499,12 +499,12 @@
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1159"/>
       <source>R&amp;esize Image</source>
-      <translation>調整圖片大小</translation>
+      <translation>调整图片大小</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1162"/>
       <source>resize the current image</source>
-      <translation>調整當前圖片的大小</translation>
+      <translation>调整当前图片的大小</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1164"/>
@@ -514,67 +514,67 @@
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1167"/>
       <source>cut the current image</source>
-      <translation>裁剪當前圖片</translation>
+      <translation>裁剪当前图片</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1173"/>
       <source>Show &amp;Menu</source>
-      <translation>顯示與功能表</translation>
+      <translation>显示与功能表</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1174"/>
       <source>Hides the Menu and Shows it Again on ALT</source>
-      <translation>按ALT顯示或隱藏選單</translation>
+      <translation>按ALT显示或隐藏菜单选项</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1177"/>
       <source>Tool&amp;bar</source>
-      <translation>工具列(&amp;B)</translation>
+      <translation>工具栏(&amp;B)</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1179"/>
       <source>Show Toolbar</source>
-      <translation>顯示工具列</translation>
+      <translation>显示工具栏</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1182"/>
       <source>&amp;Statusbar</source>
-      <translation>狀態列</translation>
+      <translation>状态栏</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1184"/>
       <source>Show Statusbar</source>
-      <translation>顯示狀態列</translation>
+      <translation>显示状态栏</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1187"/>
       <source>&amp;Pseudocolor Function</source>
-      <translation>假色函數</translation>
+      <translation>假色函数</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1189"/>
       <source>Show Pseudocolor Function</source>
-      <translation>顯示假色函數</translation>
+      <translation>显示假色函数</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1193"/>
       <source>O&amp;verview</source>
-      <translation>預覽</translation>
+      <translation>预览</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1195"/>
       <source>Shows the Zoom Overview</source>
-      <translation>顯示預覽縮放</translation>
+      <translation>显示预览缩放</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1199"/>
       <source>Pla&amp;yer</source>
-      <translation>幻燈片播放器</translation>
+      <translation>幻灯片播放器</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1201"/>
       <source>Shows the Slide Show Player</source>
-      <translation>顯示幻燈片播放器滑動條</translation>
+      <translation显示幻灯片播放器滑动条</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1204"/>
@@ -589,52 +589,52 @@
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1210"/>
       <source>File &amp;Explorer</source>
-      <translation>檔案總管 (&amp;E)</translation>
+      <translation>档案总管 (&amp;E)</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1212"/>
       <source>Show File Explorer</source>
-      <translation>顯示檔案總管</translation>
+      <translation>显示档案总管</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1215"/>
       <source>Metadata &amp;Info</source>
-      <translation>中繼資料</translation>
+      <translation>中继资料</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1217"/>
       <source>Show Metadata Info</source>
-      <translation>顯示後設資料資訊</translation>
+      <translation>显示后设资料信息</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1220"/>
       <source>&amp;Thumbnails</source>
-      <translation>縮圖</translation>
+      <translation>缩略图</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1222"/>
       <source>Show Thumbnails</source>
-      <translation>顯示縮圖</translation>
+      <translation>显示缩略图</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1225"/>
       <source>&amp;Thumbnail Preview</source>
-      <translation>縮圖預覽</translation>
+      <translation>缩略图预览</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1227"/>
       <source>Show Thumbnails Preview</source>
-      <translation>顯示縮圖預覽</translation>
+      <translation>显示缩略图预览</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1230"/>
       <source>&amp;Folder Scrollbar</source>
-      <translation>資料夾滾動條</translation>
+      <translation>文件夹滚动条</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1231"/>
       <source>Show Folder Scrollbar</source>
-      <translation>顯示資料夾滾動條</translation>
+      <translation>显示文件夹滚动条</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1234"/>
@@ -644,47 +644,47 @@
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1236"/>
       <source>Shows the Metadata Panel</source>
-      <translation>顯示後設資料面板</translation>
+      <translation>显示后设信息面板</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1239"/>
       <source>File &amp;Info</source>
-      <translation>檔案資訊(&amp;L)</translation>
+      <translation>文件信息(&amp;L)</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1241"/>
       <source>Shows the Info Panel</source>
-      <translation>顯示資訊面板</translation>
+      <translation>显示信息面板</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1244"/>
       <source>&amp;Histogram</source>
-      <translation>直方圖(&amp;H)</translation>
+      <translation>直方图(&amp;H)</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1246"/>
       <source>Shows the Histogram Panel</source>
-      <translation>顯示直方圖面板</translation>
+      <translation>显示直方图面板</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1249"/>
       <source>Image &amp;Notes</source>
-      <translation>圖片備註</translation>
+      <translation>图片备注</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1251"/>
       <source>Shows Image Notes</source>
-      <translation>顯示的圖片備註</translation>
+      <translation>显示图片备注</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1254"/>
       <source>Edit &amp;History</source>
-      <translation>編輯歷史(&amp;H)</translation>
+      <translation>编辑历史(&amp;H)</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1255"/>
       <source>Shows the edit history</source>
-      <translation>顯示編輯歷史記錄</translation>
+      <translation>显示编辑历史记录</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1259"/>
@@ -699,22 +699,22 @@
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1267"/>
       <source>New &amp;Tab</source>
-      <translation>新選項卡</translation>
+      <translation>新选项卡</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1269"/>
       <source>Open a new tab</source>
-      <translation>開啟新選項卡</translation>
+      <translation>打开新选项卡</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1271"/>
       <source>&amp;Close Tab</source>
-      <translation>關閉選項卡</translation>
+      <translation>关闭新选项卡</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1273"/>
       <source>Close current tab</source>
-      <translation>關閉當前選項卡</translation>
+      <translation>关闭当前选项卡</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1275"/>
@@ -729,12 +729,12 @@
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1278"/>
       <source>&amp;Fit Window</source>
-      <translation>適合視窗(&amp;F)</translation>
+      <translation>适合窗口(&amp;F)</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1280"/>
       <source>Fit window to the image</source>
-      <translation>調整視窗大小以適應圖片</translation>
+      <translation>调整窗口大小以适应图片</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1282"/>
@@ -749,12 +749,12 @@
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1285"/>
       <source>&amp;Previous Tab</source>
-      <translation>上一選項卡</translation>
+      <translation>上一选项卡</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1287"/>
       <source>Switch to previous tab</source>
-      <translation>切換到上一個選項卡</translation>
+      <translation>切换到上一个选项卡</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1289"/>
@@ -769,12 +769,12 @@
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1292"/>
       <source>&amp;Next Tab</source>
-      <translation>下一個選項卡</translation>
+      <translation>下一个选项卡</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1294"/>
       <source>Switch to next tab</source>
-      <translation>切換至下一個選項卡</translation>
+      <translation>切换至下一个选项卡</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1296"/>
@@ -799,22 +799,22 @@
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1306"/>
       <source>&amp;Zoom to Fit</source>
-      <translation>縮放到合適大小</translation>
+      <translation>缩放到合适大小</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1308"/>
       <source>Shows the initial view (no zooming)</source>
-      <translation>顯示 （不縮放） 的初始檢視</translation>
+      <translation>显示（不缩放）的初始显示</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1310"/>
       <source>Show &amp;100%</source>
-      <translation>100%顯示</translation>
+      <translation>100%显示</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1312"/>
       <source>Shows the image at 100%</source>
-      <translation>以100%顯示圖片</translation>
+      <translation>以100%显示图片</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1314"/>
@@ -830,22 +830,22 @@
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1318"/>
       <source>&amp;Zoom Out</source>
-      <translation>縮小(&amp;Z)</translation>
+      <translation>缩小(&amp;Z)</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1320"/>
       <source>zoom out</source>
-      <translation>縮小</translation>
+      <translation>缩小</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1322"/>
       <source>&amp;Anti Aliasing</source>
-      <translation>抗鋸齒</translation>
+      <translation>抗锯齿</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1324"/>
       <source>if checked images are smoother</source>
-      <translation>選中以平滑圖片</translation>
+      <translation>选中以平滑图片</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1328"/>
@@ -855,17 +855,17 @@
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1330"/>
       <source>if checked, a pattern will be displayed for transparent objects</source>
-      <translation>如果選中，圖案將以透明物件模式顯示。</translation>
+      <translation>如果选中，图案将以透明物件模式显示。</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1334"/>
       <source>&amp;Frameless</source>
-      <translation>無框</translation>
+      <translation>无框</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1336"/>
       <source>shows a frameless window</source>
-      <translation>顯示一個無框視窗</translation>
+      <translation>显示一个无框窗口</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1340"/>
@@ -875,7 +875,7 @@
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1342"/>
       <source>change the window opacity</source>
-      <translation>更改視窗透明度</translation>
+      <translation>更改窗口透明度</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1344"/>
@@ -886,7 +886,7 @@
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1346"/>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1350"/>
       <source>changes the window opacity</source>
-      <translation>更改視窗透明度</translation>
+      <translation>更改窗口透明度</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1348"/>
@@ -896,53 +896,53 @@
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1352"/>
       <source>To&amp;ggle Opacity</source>
-      <translation>切換不透明度</translation>
+      <translation>切换不透明度</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1354"/>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1445"/>
       <source>toggle the window opacity</source>
-      <translation>切換視窗不透明度</translation>
+      <translation>切换窗口不透明度</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1356"/>
       <source>Lock &amp;Window</source>
-      <translation>鎖定視窗</translation>
+      <translation>锁定窗口</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1358"/>
       <source>lock the window</source>
-      <translation>鎖定視窗</translation>
+      <translation>锁定窗口</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1362"/>
       <source>&amp;Toggle Slideshow</source>
-      <translation>&amp;切換幻燈片</translation>
+      <translation>&amp;切换幻灯片</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1363"/>
       <source>Start/Pause the slideshow</source>
-      <translation>啟動/暫停幻燈片</translation>
+      <translation>启动/暂停幻灯片</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1366"/>
       <source>&amp;Pause Movie</source>
-      <translation>暫停播放</translation>
+      <translation>暂停播放</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1367"/>
       <source>pause the current movie</source>
-      <translation>暫停當前影片</translation>
+      <translation>暂停当前影片</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1371"/>
       <source>P&amp;revious Frame</source>
-      <translation>上一幀</translation>
+      <translation>上一帧</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1372"/>
       <source>show previous frame</source>
-      <translation>顯示上一幀</translation>
+      <translation>显示上一帧</translation>
     </message>
     <message>
       <location filename="../../src/DkCore/DkActionManager.cpp" line="1374"/>
